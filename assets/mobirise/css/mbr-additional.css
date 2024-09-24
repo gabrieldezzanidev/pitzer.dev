@@ -1823,6 +1823,7 @@ img {
   justify-content: center;
   align-items: center;
   opacity: 1 !important;
+  display: none;
 }
 .cid-ultF6cqIML .embla__button:disabled {
   cursor: default;
